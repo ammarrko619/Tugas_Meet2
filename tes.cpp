@@ -7,5 +7,6 @@ int main()
 	b = 2;
 	hasil = a+b;
 	cout<<hasil;
+	
 	return 0;
 }
